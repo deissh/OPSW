@@ -1,2 +1,1 @@
-# OPSW
-Operation Storm Wind
+# YAPP - Yet Another Pet project
